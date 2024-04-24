@@ -1,0 +1,20 @@
+{
+  "version": "5",
+  "dialect": "pg",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1712414444279,
+      "tag": "0000_warm_justin_hammer",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1712416285303,
+      "tag": "0001_special_bastion",
+      "breakpoints": true
+    }
+  ]
+}
